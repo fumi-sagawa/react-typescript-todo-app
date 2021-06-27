@@ -1,5 +1,5 @@
 ### 概要
-`react + Typescript`の学習用リポジトリ。
+`react + Typescript`学習のために作成したTODOアプリ。
 
 ### 実行方法
 ```
